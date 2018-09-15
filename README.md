@@ -1,6 +1,6 @@
 # walkAlongClass
 
-<h4>2018-09-15 수업 참조</h4>
+<h3>2018-09-15 수업 참조</h3>
 
 1. <a href="https://en.wikipedia.org/wiki/HTML">HTML 위키백과</a>
 
