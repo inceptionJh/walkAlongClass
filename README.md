@@ -12,3 +12,11 @@
 
 <p><a href="https://inceptionjh.github.io/walkAlongClass/index.html">index.html 보기</a></p>
 <p><a href="https://inceptionjh.github.io/walkAlongClass/shoppinglist.html">shoppinglist.html 보기</a></p>
+
+
+
+<h3>2018-10-08 수업 참조</h3>
+
+1. <a href="https://www.w3schools.com/js/js_htmldom_eventlistener.asp">JavaScript DOM EventListener</a>
+
+2. <a href="https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener">EventTarget.addEventListener()</a>
